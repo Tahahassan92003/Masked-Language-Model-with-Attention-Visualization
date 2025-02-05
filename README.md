@@ -13,6 +13,6 @@ This project uses **BERT (bert-base-uncased)** to predict missing words in a sen
 ## 📦 Installation
 Ensure Python is installed, then install dependencies:
 
-```sh
-pip install tensorflow transformers pillow
+```bash
+pip install -r requirements.txt
 
